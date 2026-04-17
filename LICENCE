@@ -1,0 +1,65 @@
+Copyright (c) 2026 Jeffrey Williams · IntentBound.com · IBA@intentbound.com
+
+INTENT BOUND AUTHORIZATION — PROPRIETARY LICENSE
+
+Patent GB2603013.0 (Pending) · UK IPO · Filed February 5, 2026
+WIPO DAS Confirmed April 15, 2026 · Access Code C9A6
+PCT Coverage: 150+ Countries · Protected Until August 2028
+IETF draft-williams-intent-token-00
+
+All rights reserved.
+
+This repository and its contents — including but not limited to all
+source code, documentation, architecture specifications, diagrams,
+demonstration materials, and README files — are the proprietary
+intellectual property of Jeffrey Williams and are protected by:
+
+  · UK patent application GB2603013.0 (pending, filed February 5, 2026)
+  · PCT international patent coverage in 150+ countries
+  · Copyright law in all applicable jurisdictions
+
+PERMITTED:
+  · Viewing and reading this repository for evaluation purposes
+  · Linking to this repository for reference or citation
+  · Referencing this repository in academic, journalistic, or
+    standards-body contexts with attribution
+
+NOT PERMITTED without express written authorisation from Jeffrey Williams:
+  · Copying, reproducing, or distributing any part of this repository
+  · Implementing or deploying the IBA architecture or any substantial
+    part of it in any product, service, or system
+  · Creating derivative works based on this repository
+  · Using this repository or its contents for commercial purposes
+  · Filing patent applications that overlap with the claims of
+    GB2603013.0 or the PCT application derived from it
+
+ACQUISITION & LICENSING:
+  IBA Intent Bound Authorization is available for acquisition and licensing.
+  All enquiries: IBA@intentbound.com · IntentBound.com
+
+STANDARDS RECORD:
+  IETF draft-williams-intent-token-00 is published on the IETF standards
+  track as an informational submission. Publication does not constitute
+  a grant of licence to implement the described architecture.
+  datatracker.ietf.org/doc/draft-williams-intent-token/
+
+GOVERNMENT FILINGS:
+  13 NIST filings · 10 NCCoE filings · AI Agent Identity & Authorization
+  Submissions to government standards bodies are public record and do not
+  constitute a grant of licence.
+
+NOTE ON PERPLEXITY DIGITAL WORKER:
+  This repository was created in direct response to the April 2026
+  launch of Perplexity's 24/7 multi-model digital worker system.
+  The IBA architecture predates this launch. Priority date: February 5, 2026.
+  WIPO DAS confirmed: April 15, 2026. Access Code C9A6.
+
+NO WARRANTY:
+  This repository is provided for prior art documentation and evaluation
+  purposes. No warranty of any kind is provided, express or implied.
+
+Jeffrey Williams
+IBA Intent Bound Authorization
+Chiang Mai, Thailand
+IBA@intentbound.com
+IntentBound.com
