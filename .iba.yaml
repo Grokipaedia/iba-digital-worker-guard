@@ -1,0 +1,59 @@
+# .iba.yaml - IBA Digital Worker Guard · Intent Certificate
+# Patent GB2603013.0 (Pending) · WIPO DAS C9A6 · intentbound.com
+
+intent:
+  description: "Research competitor pricing and draft internal report. No purchases. No external email. No file deletion."
+
+scope:
+  - research
+  - web_search
+  - search
+  - read
+  - draft
+  - report
+  - internal
+  - summarise
+  - analyse
+  - market
+  - pricing
+  - competitor
+
+denied:
+  - post
+  - social
+  - linkedin
+  - twitter
+  - contact_list
+  - external_email
+  - external email
+  - send email
+  - file_delete
+  - calendar_write
+  - credential
+  - banking
+
+default_posture: DENY_ALL
+
+kill_threshold: "purchase | payment | send_email_external | file_delete | credential_access | financial_transaction"
+
+model_limits:
+  max_parallel_models: 5
+  permitted_models:
+    - claude_opus
+    - gemini_pro
+    - grok
+  forbidden_models:
+    - nano_banana_pro
+    - uncertified
+
+runtime_limits:
+  max_session_hours: 8
+  max_api_calls: 1000
+  interrupt_on_decision: true
+
+temporal_scope:
+  hard_expiry: "2026-12-31"
+
+audit:
+  chain: witnessbound
+  log_every_model_call: true
