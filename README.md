@@ -190,7 +190,7 @@ Edit the `.iba.yaml`. Type any digital worker action. Watch the gate fire — AL
 ## Patent & Standards Record
 
 ```
-Patent:   GB2603013.0 (Pending) · UK IPO · Filed February 5, 2026
+Patent:   GB2603013.0 (Pending) · UK IPO · Filed February 10, 2026
 WIPO DAS: Confirmed April 15, 2026 · Access Code C9A6
 PCT:      150+ countries · Protected until August 2028
 IETF:     draft-williams-intent-token-00 · CONFIRMED LIVE
@@ -199,7 +199,7 @@ NIST:     13 filings · NIST-2025-0035
 NCCoE:    10 filings · AI Agent Identity & Authorization
 ```
 
-IBA priority date: **February 5, 2026**
+IBA priority date: **February 10, 2026**
 Perplexity digital worker launch: **April 2026**
 IBA predates all known multi-model authorization frameworks.
 
